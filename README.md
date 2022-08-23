@@ -1,2 +1,3 @@
 # OZON_autotests
-OZON_autotests
+
+Final for QAP-73
