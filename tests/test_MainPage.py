@@ -2,10 +2,6 @@ from pages.Main_page import MainPage
 from config import TestData
 
 
-# Строка для запуска кода
-# python -m pytest -v --driver Chrome --driver-path C:\Users\cpu\PycharmProjects\Final_project_28\test_MainPage.py
-
-
 # Логотип Ozon (переход в раздел нг подарки) виден на странице
 def test_main_logo_on_page(driver):
     main_page = MainPage(driver)
